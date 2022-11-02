@@ -5,8 +5,7 @@
 ![@andygrowth - Github - Cover](https://user-images.githubusercontent.com/117131905/199589068-351c1583-e086-433a-b183-8b0472d231e3.png)
 
 <!-- DESCRIPTION -->
-I am a business professional who worked 7 years in the financial industry, I jumped into digital marketing since 8 years ago. My purpose is to contribute to the great problem of financial education in the world with code and stories that inspire people. I help to awaken the wealth that resides in every human being with growth hacking and code.
-
+I am a business professional who worked 7 years in the financial industry. From 2015 I've been helping a lot of entrepreneurs to grow with digital marketing. I discovered that my purpose in life is to contribute financial wellness to the great financial education problem in the world with code and stories that inspire people. 
 
 ## 🚀My projects 
 
