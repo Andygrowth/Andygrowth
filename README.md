@@ -10,10 +10,10 @@ I am a business professional who worked 7 years in the financial industry, I jum
 
 ## 🚀My projects 
 
-_I love creating projects that positively impact people's lives while increasing my technical skills. Some exciting projects to share here soon. Projects under construction...<br><br>👷🏻🚧Projects under construction...
+_I love creating projects that positively impact people's lives while increasing my technical skills. I'm working on some exciting projects to share them soon. <br><br>👷🏻🚧_Projects are under construction..._
 
 ## ⚙ My stack technologies
-_Learning about
+_Learning about_
 |Programming languages|Frontend|
 |---|---|
 |<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> |
