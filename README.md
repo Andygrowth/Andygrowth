@@ -23,4 +23,7 @@ _Learning about_
 
 ## 📈My statistics
 
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andygrowth&show_icons=true&theme=city_lights)](https://github.com/andygrowth/github-readme-stats)|![Andygrowth GitHub stats](https://github-readme-stats.vercel.app/api?username=andygrowth&show_icons=true&theme=city_lights)|
+|---|---|
+
 👷🚧Soon!
