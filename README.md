@@ -5,11 +5,11 @@
 ![@andygrowth - Github - Cover](https://user-images.githubusercontent.com/117131905/199589068-351c1583-e086-433a-b183-8b0472d231e3.png)
 
 <!-- DESCRIPTION -->
-I am a business professional who worked 7 years in the financial industry. From 2015 I've been helping a lot of entrepreneurs to grow with digital marketing. I discovered that my purpose in life is to contribute financial wellness to the great financial education problem in the world with code and stories that inspire people. 
+I am a business professional who worked for 7 years in the financial industry. Since 2015 I've been helping many entrepreneurs grow with digital marketing. I discovered that my purpose in life is to contribute to financial well-being to the tremendous financial education problem in the world with code and stories that inspire people. 
 
 ## 🚀My projects 
 
-_I love creating projects that positively impact people's lives while increasing my technical skills. I'm working on some exciting projects to share them soon. <br><br>👷🏻🚧_Projects are under construction..._
+_I love creating projects that positively impact people's lives while increasing my technical skills. I'm working on some exciting projects to share soon. <br><br>👷🏻🚧_Projects are under construction..._
 
 ## ⚙ My stack technologies
 _Learning about_
