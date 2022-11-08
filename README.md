@@ -28,3 +28,11 @@ _Learning about_
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andygrowth&show_icons=true&theme=city_lights)](https://github.com/andygrowth/github-readme-stats)|![Andygrowth GitHub stats](https://github-readme-stats.vercel.app/api?username=andygrowth&show_icons=true&theme=city_lights)|
 |---|---|
 
+## 🤝More about me!
+
+- [YouTube](https://www.youtube.com/c/AndyGrowth "YouTube")
+- [Twitter](https://twitter.com/andygrowth1 "Twitter")
+- [Instagram](https://www.instagram.com/andygrowth1/ "Instagram")
+- [Linked In](https://www.linkedin.com/in/andygrowth1/ "Linked In")
+- [Tik Tok](https://www.tiktok.com/@andygrowth1?lang=en "Tik Tok")
+- [Platzi](https://platzi.com/p/andygrowth1/ "Platzi")
