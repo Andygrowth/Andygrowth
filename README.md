@@ -1,4 +1,4 @@
-<strong>Hi! Hi, I’m Andy — founder of **Kilómetros Adentro**, a well-tech hub where I craft digital tools for the soul.👋🟢
+<strong>Hi! I’m Andy — founder of **Kilómetros Adentro**, a well-tech hub where I craft digital tools for the soul.👋🟢</strong>
 
 
 <!-- BANNER: "@andygrowth" -->
