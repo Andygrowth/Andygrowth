@@ -1,29 +1,17 @@
-<strong>Hi! I'm Andy</strong>👋🟢
+<strong>Hi! Hi, I’m Andy — founder of **Kilómetros Adentro**, a well-tech hub where I craft digital tools for the soul.👋🟢
 
 
 <!-- BANNER: "@andygrowth" -->
-![@andygrowth - Github - Cover](https://user-images.githubusercontent.com/117131905/199589068-351c1583-e086-433a-b183-8b0472d231e3.png)
+![@andygrowth - Github - Cover](https://github.com/user-attachments/assets/596e817e-10bd-47ca-97a5-b057c3061324)
 
 <!-- DESCRIPTION -->
-I am a business professional who worked for 7 years in the financial industry. Since 2015 I've been helping many entrepreneurs grow with digital marketing, business, life, and money strategies. I believe in making people's time and life experiences more valuable by inspiring gratitude, growth, and wealth without losing your soul or feeling stressed about money with code and growth marketing.
+🧘‍♂️ After 7 years in the financial industry and a decade supporting entrepreneurs with growth and digital strategy, I now build minimalist apps that blend ancient wisdom, technology, sports, and wellness.
 
-## 🚀My projects 
+🌱 My mission is to help people feel successful one digital product and piece of content at a time.
 
-_I love creating projects that positively impact people's lives while increasing my technical skills. I'm working on some exciting projects to share soon. <br><br>👷🏻🚧_Projects are under construction..._
+🛠 Currently building welltech tools for journaling, mindful performance, endurance athletes, and conscious living.
 
-## ⚙ My stack technologies
-_Learning about_
-|Programming languages|Frontend|
-|---|---|
-|<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> |
-
-|RDBMS|Dev Tools|
-|---|---|
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)|<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)|
-
-## 📈My statistics
-
-👷🚧 
+🔗 andygrowth.com | @andygrowth | #appsfortheSoul
 
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andygrowth&show_icons=true&theme=city_lights)](https://github.com/andygrowth/github-readme-stats)|![Andygrowth GitHub stats](https://github-readme-stats.vercel.app/api?username=andygrowth&show_icons=true&theme=city_lights)|
 |---|---|
