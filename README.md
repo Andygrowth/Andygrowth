@@ -5,7 +5,9 @@
 ![@andygrowth - Github - Cover](https://github.com/user-attachments/assets/596e817e-10bd-47ca-97a5-b057c3061324)
 
 <!-- DESCRIPTION -->
-🧘‍♂️ After 7 years in the financial industry and a decade supporting entrepreneurs with growth and digital strategy, I now build minimalist apps that blend ancient wisdom, technology, sports, and wellness.
+🧘‍♂️ After 7 years in the financial industry and a decade supporting entrepreneurs with growth and digital strategy.
+
+I now build minimalist apps that blend ancient wisdom, technology, sports, and wellness.
 
 🌱 My mission is to help people feel successful one digital product and piece of content at a time.
 
