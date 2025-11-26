@@ -13,7 +13,7 @@ I now build minimalist apps that blend ancient wisdom, technology, sports, and w
 
 🛠 Currently building welltech tools for journaling, mindful performance, endurance athletes, and conscious living.
 
-🔗 andygrowth.com | #appsfortheSoul
+🔗 [andygrowth.com](https://andygrowthcom-git-main-adygrowths-projects.vercel.app/) | #appsfortheSoul
 
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andygrowth&show_icons=true&theme=city_lights)](https://github.com/andygrowth/github-readme-stats)|![Andygrowth GitHub stats](https://github-readme-stats.vercel.app/api?username=andygrowth&show_icons=true&theme=city_lights)|
 |---|---|
